@@ -1,0 +1,11 @@
+ion-list,ion-item{
+  --background:var (--ion-color-dark);
+  --ion-background-color: var (--ion-color-dark);
+}
+ion-content {
+  --background: none;
+  background-image: url('https://i.gifer.com/Yzg5.gif');
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
